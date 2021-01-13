@@ -9,7 +9,7 @@ import numpy as np
 
 ball_position_history = []
 
-filename1=r'F:\python\MLGame\games\pingpong\ml\mlp_model_1P_0552030_V5.sav'
+filename1=r'C:\Users\AIC\Desktop\NEＷ\Clean ML\MLGame-master\games\pingpong\ml\mlp_model_1P.sav'
 model = pickle.load(open(filename1, 'rb'))
 print(model)
 
